@@ -21,7 +21,7 @@ int main()
 	bool example = true;
 	if (example)
 	{
-		int current_example = 2;
+		int current_example = 0;
 		/*PRZYKŁAD 11.0*/
 		/*Podstawowe operacje tablicowe*/
 		if(current_example == 0)
